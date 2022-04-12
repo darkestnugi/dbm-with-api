@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "827729980655",
+    "project_id": "dbmwithapi",
+    "storage_bucket": "dbmwithapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827729980655:android:c596878f855fceb03aff1a",
+        "android_client_info": {
+          "package_name": "com.example.dbmwithapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827729980655-kf8v391f6gk06hlpj4pnk67hduqa6qjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtgiHTjvTTKO3hmDBSM_9mcwD0y1glR5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827729980655-kf8v391f6gk06hlpj4pnk67hduqa6qjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
